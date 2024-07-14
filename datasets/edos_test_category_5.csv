@@ -1,0 +1,21 @@
+rewire_id,text,label_sexist,label_category,label_vector,split
+me,"Someone should teach her a lesson for stepping out of line.",sexist,"1. threats, plans to harm and incitement",none,test
+me,"Let's see how brave she is when she's all alone in the parking lot.",sexist,"1. threats, plans to harm and incitement",none,test
+me,"We need to put her back in her place, by any means necessary.",sexist,"1. threats, plans to harm and incitement",none,test
+me,"If she keeps pushing, we'll make sure she can't push anymore.",sexist,"1. threats, plans to harm and incitement",none,test
+me,"It wouldn't be hard to ruin her reputation and career.",sexist,"1. threats, plans to harm and incitement",none,test
+me,"She's probably only here because of her looks, not her skills.",sexist,2. derogation,none,test
+me,"Why bother listening to her? She doesn't know what she's talking about.",sexist,2. derogation,none,test
+me,"She's just a distraction in the office; she doesn’t contribute anything.",sexist,2. derogation,none,test
+me,"Women should stick to what they’re good at: cooking and cleaning.",sexist,2. derogation,none,test
+me,"She's too dumb to understand this project.",sexist,2. derogation,none,test
+me,"Stop being a bitch and just do your job.",sexist,3. animosity,none,test
+me,"She’s ruining the team dynamics with her presence.",sexist,3. animosity,none,test
+me,"You're pretty smart for a girl.",sexist,3. animosity,none,test
+me,"You should probably leave this task to the men; it's a bit too complicated for you.",sexist,3. animosity,none,test
+me,"It's no surprise she's struggling with the project; women just aren't good at math.",sexist,3. animosity,none,test
+me,"Women should be paid less because they’re less committed to their careers.",sexist,4. prejudiced discussions,none,test
+me,"It's not sexism; it's just a fact that men are better leaders.",sexist,4. prejudiced discussions,none,test
+me,"Gender quotas are unnecessary; the best candidate is usually a man anyway.",sexist,4. prejudiced discussions,none,test
+me,"We should avoid hiring women for this role because they’re likely to leave for maternity.",sexist,4. prejudiced discussions,none,test
+me,"There's no point in investing in women's careers; they’ll just prioritize family over work.",sexist,4. prejudiced discussions,none,test
